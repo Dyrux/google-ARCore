@@ -1,1 +1,1 @@
-"# google-ARCore" 
+Google ARCore project
